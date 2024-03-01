@@ -1,9 +1,10 @@
 
 <h1 align="left">luaminha</h1>
-Hi there im luaminha! Welcome to my GitHub profile.
+Hi there im luaminha! Welcome to my GitHub profile. <br>
+
 All of my projects are available here [dolodi](https://github.com/dolodi)
 
-- 📫 How to reach me @discord **luaminha**
+Reach me @discord **luaminha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
