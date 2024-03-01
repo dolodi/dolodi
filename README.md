@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm luaminha</h1>
 <h3 align="center">Reverse engineer | Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luaminha&label=Profile%20views&color=0e75b6&style=flat" alt="luaminha" /> </p>
+
 
 
 
@@ -25,3 +25,5 @@
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolodi&show_icons=true&locale=en&layout=compact" alt="luaminha" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luaminha&label=Profile%20views&color=0e75b6&style=flat" alt="luaminha" /> </p>
