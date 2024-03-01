@@ -20,9 +20,9 @@
 <p><a href="https://ko-fi.com/luaminha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="luaminha" /></a></p><br><br>
 
 
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dolodi&show_icons=true&locale=en" alt="luaminha" /></p><br>
-<br><br>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dolodi&show_icons=true&locale=en" alt="luaminha" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolodi&show_icons=true&locale=en&layout=compact" alt="luaminha" /></p>
 
