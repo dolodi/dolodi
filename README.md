@@ -19,6 +19,7 @@
 <p><a href="https://ko-fi.com/luaminha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="luaminha" /></a></p><br><br>
 
 <br>
+<h2>About Me</h2>
 
 <p>Feel free to check out my repositories and projects.</p>
 <a href="https://github.com/dolodi">
