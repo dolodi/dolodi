@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dolodi&show_icons=true&locale=en" alt="luaminha" /></p><br>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolodi&show_icons=true&locale=en&layout=compact" alt="luaminha" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dolodi&show_icons=true&locale=en&layout=compact" alt="luaminha" /></p>
