@@ -1,12 +1,7 @@
 
 <h1 align="left">luaminha</h1>
-<h3 align="left">Reverse engineer | Student</h3>
-
-
-
-
-
-- 👨‍💻 All of my projects are available here [dolodi](https://github.com/dolodi)
+Hi there im luaminha! Welcome to my GitHub profile.
+All of my projects are available here [dolodi](https://github.com/dolodi)
 
 - 📫 How to reach me @discord **luaminha**
 
