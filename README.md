@@ -3,6 +3,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<p>Follow me on Twitter or add me on Discord:</p>
+
+<a href="https://discord.c99.nl/widget/theme-2/774698789851234344.png">
+  <img src="https://discord.c99.nl/widget/theme-2/774698789851234344.png" alt="Discord" />
+</a>
+
 All of my projects are available here [dolodi](https://github.com/dolodi)
 
 Reach me @discord **luaminha**
