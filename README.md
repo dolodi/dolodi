@@ -20,6 +20,7 @@
 
 <br>
 
+<p>Feel free to check out my repositories and projects.</p>
 <a href="https://github.com/dolodi">
   <img src="https://github-readme-stats.vercel.app/api?username=dolodi&theme=highcontrast&show_icons=true&locale=en" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dolodi&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Top languages" />
@@ -31,6 +32,6 @@
 <p>You can reach out to me on the following platforms:</p>
 
 <ul>
-  <li>Twitter: <a href="https://twitter.com/Spuckwaffel">Spuckwaffel</a></li>
-  <li>Discord: Spuckwaffel</li>
+  <li>Twitter: <a href="https://twitter.com/lluaminha">Luaminha</a></li>
+  <li>Discord: luaminha</li>
 </ul>
