@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luaminha&label=Profile%20views&color=0e75b6&style=flat" alt="luaminha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luaminha" alt="luaminha" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/dolodi](https://github.com/dolodi)
 
-- 📝 I regularly write articles on [link-](link-)
+- 👨‍💻 All of my projects are available here [dolodi](https://github.com/dolodi)
 
 - 📫 How to reach me @discord **luaminha**
 
