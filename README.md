@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm luaminha</h1>
-<h3 align="center">Reverse engineer | Student</h3>
+
+<h1 align="left">luaminha</h1>
+<h3 align="left">Reverse engineer | Student</h3>
 
 
 
@@ -19,7 +20,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/luaminha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="luaminha" /></a></p><br><br>
 
-
+<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dolodi&show_icons=true&locale=en" alt="luaminha" /></p>
 
