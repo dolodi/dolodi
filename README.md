@@ -1,16 +1,16 @@
 <h1>Luaminha</h1>
 <p>Hi there im luaminha! Welcome to my GitHub profile.</p> <br>
 
-<h3 align="left">Connect with me:</h3>
-
-<p>Follow me on Twitter or add me on Discord:</p>
 
 
-<a href="https://discord.c99.nl/widget/theme-2/284435140367613953.png">
+<p>Add me on Discord:</p>
+
+All of my projects are available here:
+
+<a href="[https://discord.c99.nl/widget/theme-2/284435140367613953.png](https://github.com/dolodi)">
   <img src="https://discord.c99.nl/widget/theme-2/284435140367613953.png" alt="Discord" />
 </a>
 
-All of my projects are available here [dolodi](https://github.com/dolodi)
 
 
 
@@ -28,4 +28,11 @@ All of my projects are available here [dolodi](https://github.com/dolodi)
   <img src="https://komarev.com/ghpvc/?username=luaminha&label=Profile%20views&&style=flat-square" alt="views" />
 </a>
 
+<h2 align="left">Connect with me:</h3>
 
+<p>You can reach out to me on the following platforms:</p>
+
+<ul>
+  <li>Twitter: <a href="https://twitter.com/Spuckwaffel">Spuckwaffel</a></li>
+  <li>Discord: Spuckwaffel</li>
+</ul>
