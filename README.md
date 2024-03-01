@@ -1,6 +1,5 @@
-
-<h1 align="left">luaminha</h1>
-Hi there im luaminha! Welcome to my GitHub profile. <br>
+<h1>Luaminha</h1>
+<p>Hi there im luaminha! Welcome to my GitHub profile.</p> <br>
 
 <h3 align="left">Connect with me:</h3>
 
