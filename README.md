@@ -5,8 +5,6 @@
 
 <p>Add me on Discord:</p>
 
-All of my projects are available here:
-
 <a href="[https://discord.c99.nl/widget/theme-2/284435140367613953.png](https://github.com/dolodi)">
   <img src="https://discord.c99.nl/widget/theme-2/284435140367613953.png" alt="Discord" />
 </a>
@@ -22,7 +20,7 @@ All of my projects are available here:
 
 <br>
 
-<a href="https://github.com/Spuckwaffel">
+<a href="https://github.com/dolodi">
   <img src="https://github-readme-stats.vercel.app/api?username=dolodi&theme=highcontrast&show_icons=true&locale=en" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dolodi&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Top languages" />
   <img src="https://komarev.com/ghpvc/?username=luaminha&label=Profile%20views&&style=flat-square" alt="views" />
