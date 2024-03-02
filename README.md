@@ -24,7 +24,7 @@
 <p>Feel free to check out my repositories and projects.</p>
 <a href="https://github.com/dolodi">
   <img src="https://github-readme-stats.vercel.app/api?username=dolodi&theme=highcontrast&show_icons=true&locale=en" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lluaminha&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dolodi&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="Top languages" />
   <img src="https://komarev.com/ghpvc/?username=luaminha&label=Profile%20views&&style=flat-square" alt="views" />
 </a>
 
